@@ -1,0 +1,602 @@
+{
+  "sites": [
+    {
+      "name": "Walmart Production",
+      "urls": [
+        {
+          "id": 1533,
+          "url": "http:\\/\\/www.walmart.com\\/"
+        },
+        {
+          "id": 9094,
+          "url": "http:\\/\\/www.walmart.com\\/search\\/?query=ipad"
+        },
+        {
+          "id": 14964,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/Apple-iPad-mini-16GB-Wi-Fi\\/33093101"
+        },
+        {
+          "id": 13969,
+          "url": "http:\\/\\/www.walmart.com\\/browse\\/electronics\\/tvs\\/3944_1060825_447913"
+        },
+        {
+          "id": 14164,
+          "url": "http:\\/\\/www.walmart.com\\/cp\\/1060825"
+        },
+        {
+          "id": 16519,
+          "url": "http:\\/\\/www.walmart.com\\/store\\/finder?location=94010&distance=50"
+        },
+        {
+          "id": 14166,
+          "url": "https:\\/\\/www.walmart.com\\/lists\\/baby-registry-homepage"
+        },
+        {
+          "id": 14306,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/mini-fridge"
+        },
+        {
+          "id": 14678,
+          "url": "https:\\/\\/www.walmart.com\\/account\\/login"
+        },
+        {
+          "id": 15136,
+          "url": "https:\\/\\/www.walmart.com\\/cart\\/"
+        },
+        {
+          "id": 15135,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/39671223"
+        },
+        {
+          "id": 15147,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/fulfillment"
+        },
+        {
+          "id": 15148,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/shipping-address"
+        },
+        {
+          "id": 15149,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/payment"
+        },
+        {
+          "id": 15150,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/41371592"
+        },
+        {
+          "id": 16344,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/45087333"
+        },
+        {
+          "id": 15714,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/15065104"
+        },
+        {
+          "id": 15521,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/43601769"
+        },
+        {
+          "id": 15716,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/14225185"
+        },
+        {
+          "id": 15551,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/umbrella-strollers"
+        },
+        {
+          "id": 14306,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/mini-fridge"
+        },
+        {
+          "id": 15722,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/flat-screen-tvs"
+        },
+        {
+          "id": 15727,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/lists\\/nyt-bestsellers"
+        },
+        {
+          "id": 15728,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=bike"
+        },
+        {
+          "id": 15730,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=ps4"
+        },
+        {
+          "id": 15732,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=laptop"
+        },
+        {
+          "id": 15735,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=pools"
+        },
+        {
+          "id": 15739,
+          "url": "https:\\/\\/www.walmart.com\\/cart\\/?loginFirst=1"
+        },
+        {
+          "id": 16017,
+          "url": "http:\\/\\/www.walmart.com?sitespect=true\\/"
+        },
+        {
+          "id": 16373,
+          "url": "http:\\/\\/www.walmart.com?localStore=true\\/"
+        },
+        {
+          "id": 16374,
+          "url": "http:\\/\\/www.walmart.com\\/Value-of-the-Day"
+        },
+        {
+          "id": 16418,
+          "url": "http:\\/\\/www.walmart.com\\/msharbor"
+        },
+        {
+          "id": 16420,
+          "url": "http:\\/\\/www.walmart.com\\/msharbor?iphone=true"
+        },
+        {
+          "id": 16426,
+          "url": "http:\\/\\/www.walmart.com\\/browse\\/electronics\\/kids-tablets\\/3944_1078524_1104932"
+        }
+      ],
+      "median": [
+        {
+          "day": "2015-07-24",
+          "test": "150723_MV_6967aae8f734627b8166c6cc1292d992",
+          "byte": 944,
+          "render": 3188,
+          "dom": 7809,
+          "loaded": 11333,
+          "size": 2059888,
+          "requests": 130,
+          "pagespeed": 54,
+          "speedindex": 3664
+        },
+        {
+          "day": "2015-07-23",
+          "test": "150722_P7_5c7748068eacecd7270caaff7080ac06",
+          "byte": 958,
+          "render": 2788,
+          "dom": 8037,
+          "loaded": 11802,
+          "size": 2087210,
+          "requests": 133,
+          "pagespeed": 55,
+          "speedindex": 3046
+        },
+        {
+          "day": "2015-07-22",
+          "test": "150721_R5_c33ae359d9021bb8904f3f3310df3a68",
+          "byte": 819,
+          "render": 3481,
+          "dom": 9211,
+          "loaded": 10839,
+          "size": 1739229,
+          "requests": 141,
+          "pagespeed": 76,
+          "speedindex": 4022
+        },
+        {
+          "day": "2015-07-21",
+          "test": "150720_8K_4d4208731564cd828a54006c817fcb2e",
+          "byte": 459,
+          "render": 2084,
+          "dom": 5615,
+          "loaded": 11012,
+          "size": 2710981,
+          "requests": 137,
+          "pagespeed": 78,
+          "speedindex": 3079
+        },
+        {
+          "day": "2015-07-20",
+          "test": "150719_JW_93a98876d961ff4576fc1129d879b831",
+          "byte": 696,
+          "render": 2193,
+          "dom": 10121,
+          "loaded": 11122,
+          "size": 1469200,
+          "requests": 126,
+          "pagespeed": 74,
+          "speedindex": 3248
+        },
+        {
+          "day": "2015-07-19",
+          "test": "150718_5P_ba6db10a86466540984c710a87471f05",
+          "byte": 699,
+          "render": 3254,
+          "dom": 9875,
+          "loaded": 10942,
+          "size": 1485050,
+          "requests": 124,
+          "pagespeed": 75,
+          "speedindex": 4686
+        },
+        {
+          "day": "2015-07-18",
+          "test": "150717_PZ_f920c64ab9cd36256b614b8ebc850ec0",
+          "byte": 405,
+          "render": 2022,
+          "dom": 5591,
+          "loaded": 11261,
+          "size": 2422975,
+          "requests": 126,
+          "pagespeed": 75,
+          "speedindex": 2962
+        },
+        {
+          "day": "2015-07-17",
+          "test": "150716_WD_e40738f395a2892f2a4bbb4b07198de8",
+          "byte": 435,
+          "render": 1809,
+          "dom": 6527,
+          "loaded": 11223,
+          "size": 2542445,
+          "requests": 140,
+          "pagespeed": 81,
+          "speedindex": 3609
+        },
+        {
+          "day": "2015-07-16",
+          "test": "150715_FP_4332da2b51a09c36998c298e5193bb02",
+          "byte": 541,
+          "render": 2090,
+          "dom": 7181,
+          "loaded": 9864,
+          "size": 1580215,
+          "requests": 132,
+          "pagespeed": 71,
+          "speedindex": 3102
+        },
+        {
+          "day": "2015-07-15",
+          "test": "150714_G0_c4c79b17ce4967366a52160aca1f7a64",
+          "byte": 424,
+          "render": 1791,
+          "dom": 7032,
+          "loaded": 11535,
+          "size": 2451537,
+          "requests": 144,
+          "pagespeed": 70,
+          "speedindex": 4886
+        },
+        {
+          "day": "2015-07-14",
+          "test": "150713_53_e7b2bbffbb6a0ea26470559ee3da44ab",
+          "byte": 416,
+          "render": 2281,
+          "dom": 7064,
+          "loaded": 11858,
+          "size": 2471396,
+          "requests": 136,
+          "pagespeed": 78,
+          "speedindex": 4508
+        },
+        {
+          "day": "2015-07-13",
+          "test": "150712_H4_603d3bdb41e63427dc5e1a2bb867bf71",
+          "byte": 1003,
+          "render": 2888,
+          "dom": 8412,
+          "loaded": 12268,
+          "size": 1610049,
+          "requests": 151,
+          "pagespeed": 58,
+          "speedindex": 3170
+        },
+        {
+          "day": "2015-07-12",
+          "test": "150711_AS_2a1c69794c08d5dd616d67fc3b92857a",
+          "byte": 1432,
+          "render": 4389,
+          "dom": 6404,
+          "loaded": 12196,
+          "size": 2007132,
+          "requests": 129,
+          "pagespeed": 72,
+          "speedindex": 5951
+        }
+      ]
+    },
+    {
+      "name": "Walmart Test Site (Prod-P)",
+      "urls": [
+        {
+          "id": 1533,
+          "url": "http:\\/\\/www.walmart.com\\/"
+        },
+        {
+          "id": 15028,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/Apple-iPad-Air-16GB-Wi-Fi\\/40712755"
+        },
+        {
+          "id": 15738,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=ipad&atlasResponsive=1"
+        },
+        {
+          "id": 14956,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/27608624"
+        },
+        {
+          "id": 13969,
+          "url": "http:\\/\\/www.walmart.com\\/browse\\/electronics\\/tvs\\/3944_1060825_447913"
+        },
+        {
+          "id": 14164,
+          "url": "http:\\/\\/www.walmart.com\\/cp\\/1060825"
+        },
+        {
+          "id": 15718,
+          "url": "http:\\/\\/www.walmart.com\\/store\\/finder?atlasResponsive=1"
+        },
+        {
+          "id": 14166,
+          "url": "https:\\/\\/www.walmart.com\\/lists\\/baby-registry-homepage"
+        },
+        {
+          "id": 15719,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/mini-fridge?atlasResponsive=1"
+        },
+        {
+          "id": 14678,
+          "url": "https:\\/\\/www.walmart.com\\/account\\/login"
+        },
+        {
+          "id": 15135,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/39671223"
+        },
+        {
+          "id": 15740,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/fulfillment?atlasResponsive=1"
+        },
+        {
+          "id": 15741,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/shipping-address?atlasResponsive=1"
+        },
+        {
+          "id": 15742,
+          "url": "https:\\/\\/www.walmart.com\\/checkout\\/#checkout\\/payment?atlasResponsive=1"
+        },
+        {
+          "id": 15507,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/10966053"
+        },
+        {
+          "id": 15905,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/22409560?atlasResponsive=1"
+        },
+        {
+          "id": 15520,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/21266203"
+        },
+        {
+          "id": 15904,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/43601769?atlasResponsive=1"
+        },
+        {
+          "id": 15522,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/40720867"
+        },
+        {
+          "id": 15717,
+          "url": "http:\\/\\/www.walmart.com\\/ip\\/14225185?atlasResponsive=1"
+        },
+        {
+          "id": 15720,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/umbrella-strollers?atlasResponsive=1"
+        },
+        {
+          "id": 15721,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/bunk-beds-lofts?atlasResponsive=1"
+        },
+        {
+          "id": 15723,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/kp\\/flat-screen-tvs?atlasResponsive=1"
+        },
+        {
+          "id": 15726,
+          "url": "http:\\/\\/www.walmart.com\\/c\\/lists\\/nyt-bestsellers?atlasResponsive=1"
+        },
+        {
+          "id": 15729,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=bike?atlasResponsive=1"
+        },
+        {
+          "id": 15734,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=ps4&atlasResponsive=1"
+        },
+        {
+          "id": 15733,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=laptop&atlasResponsive=1"
+        },
+        {
+          "id": 15736,
+          "url": "http:\\/\\/walmart.com\\/search\\/?query=pools&atlasResponsive=1"
+        },
+        {
+          "id": 15928,
+          "url": "http:\\/\\/www.walmart.com?atlasResponsive=1\\/"
+        },
+        {
+          "id": 16032,
+          "url": "http:\\/\\/www.walmart.com\\/store\\/2648\\/whats-new\\/?atlasResponsive=1"
+        },
+        {
+          "id": 16375,
+          "url": "http:\\/\\/www.walmart.com\\/Value-of-the-Day\\/prodp"
+        },
+        {
+          "id": 16419,
+          "url": "http:\\/\\/www.walmart.com\\/msharbor?prodp=true"
+        },
+        {
+          "id": 16421,
+          "url": "http:\\/\\/www.walmart.com\\/msharbor?prodp=true&iphone=true"
+        },
+        {
+          "id": 16428,
+          "url": "http:\\/\\/www.walmart.com\\/browse\\/electronics\\/kids-tablets\\/3944_1078524_1104932?atlasResponsive=1"
+        }
+      ],
+      "median": [
+        {
+          "day": "2015-07-24",
+          "test": "150723_ZE_e577f1888748c3c6ee3dab4c85df625e",
+          "byte": 421,
+          "render": 2187,
+          "dom": 4968,
+          "loaded": 10550,
+          "size": 2165550,
+          "requests": 132,
+          "pagespeed": 69,
+          "speedindex": 7964
+        },
+        {
+          "day": "2015-07-23",
+          "test": "150722_WN_84a264f8651f5e5a77702575c2ce22ed",
+          "byte": 1699,
+          "render": 3390,
+          "dom": 7578,
+          "loaded": 11737,
+          "size": 1764929,
+          "requests": 115,
+          "pagespeed": 72,
+          "speedindex": 3462
+        },
+        {
+          "day": "2015-07-22",
+          "test": "150721_R5_1ef07f35c1787240515fe9bc71882c1d",
+          "byte": 579,
+          "render": 1787,
+          "dom": 4881,
+          "loaded": 10238,
+          "size": 2137532,
+          "requests": 133,
+          "pagespeed": 70,
+          "speedindex": 7322
+        },
+        {
+          "day": "2015-07-21",
+          "test": "150720_1N_5edc8f7b03ccd116fd4eb6eca3cea4ba",
+          "byte": 772,
+          "render": 2594,
+          "dom": 9439,
+          "loaded": 10079,
+          "size": 1665565,
+          "requests": 149,
+          "pagespeed": 72,
+          "speedindex": 3109
+        },
+        {
+          "day": "2015-07-20",
+          "test": "150719_0X_e9215f1be7c5c06b8d33b36ab837c3a3",
+          "byte": 553,
+          "render": 1888,
+          "dom": 8901,
+          "loaded": 10234,
+          "size": 1656870,
+          "requests": 98,
+          "pagespeed": 64,
+          "speedindex": 2579
+        },
+        {
+          "day": "2015-07-19",
+          "test": "150718_GZ_5f78a600ad7ea4ab4880bdc2fd021425",
+          "byte": 923,
+          "render": 2189,
+          "dom": 6491,
+          "loaded": 9909,
+          "size": 1671332,
+          "requests": 96,
+          "pagespeed": 76,
+          "speedindex": 2599
+        },
+        {
+          "day": "2015-07-18",
+          "test": "150717_A7_6e80edd338155f1d865c68d43fd66356",
+          "byte": 3356,
+          "render": 6400,
+          "dom": 8395,
+          "loaded": 9867,
+          "size": 2010000,
+          "requests": 160,
+          "pagespeed": 56,
+          "speedindex": 7445
+        },
+        {
+          "day": "2015-07-17",
+          "test": "150716_59_f73a4ddc058fb80733d990f557d2d242",
+          "byte": 1786,
+          "render": 4494,
+          "dom": 8007,
+          "loaded": 9778,
+          "size": 2021145,
+          "requests": 161,
+          "pagespeed": 56,
+          "speedindex": 5745
+        },
+        {
+          "day": "2015-07-16",
+          "test": "150715_GT_1ea0d45f61a7d4e4ff668f220c9edb4a",
+          "byte": 826,
+          "render": 1956,
+          "dom": 5974,
+          "loaded": 8647,
+          "size": 2078883,
+          "requests": 110,
+          "pagespeed": 73,
+          "speedindex": 3646
+        },
+        {
+          "day": "2015-07-15",
+          "test": "150714_9K_ffdf5263cad4b17a2cb6e5ba62fce53e",
+          "byte": 722,
+          "render": 2072,
+          "dom": 6399,
+          "loaded": 9954,
+          "size": 1720939,
+          "requests": 168,
+          "pagespeed": 72,
+          "speedindex": 2733
+        },
+        {
+          "day": "2015-07-14",
+          "test": "150713_HB_bdece18c834d35f20a89e0631ebd257a",
+          "byte": 3093,
+          "render": 5309,
+          "dom": 8281,
+          "loaded": 9699,
+          "size": 1980899,
+          "requests": 164,
+          "pagespeed": 55,
+          "speedindex": 6218
+        },
+        {
+          "day": "2015-07-13",
+          "test": "150712_0A_2d5cd40757c199ac4a883632bd75f8e7",
+          "byte": 539,
+          "render": 2127,
+          "dom": 5900,
+          "loaded": 10480,
+          "size": 1343234,
+          "requests": 86,
+          "pagespeed": 75,
+          "speedindex": 2526
+        },
+        {
+          "day": "2015-07-12",
+          "test": "150711_AS_4e38aabc6c4ea64846be1a42664d37c7",
+          "byte": 1784,
+          "render": 3193,
+          "dom": 5847,
+          "loaded": 9315,
+          "size": 2099521,
+          "requests": 138,
+          "pagespeed": 72,
+          "speedindex": 4456
+        }
+      ]
+    }
+  ]
+}
