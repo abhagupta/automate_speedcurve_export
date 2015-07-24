@@ -3,6 +3,36 @@
 	"type": "home",
 	"tests": [
 		{
+			"day": "2015-07-25",
+			"test": "150724_J0_bb3d30c95a956bfbd43bdaf19241ba9b",
+			"run": 2,
+			"browser": "Firefox",
+			"browser_version": "39.0.0.5659",
+			"byte": 436,
+			"render": 1629,
+			"dom": 3092,
+			"loaded": 4138,
+			"size": 903101,
+			"requests": 39,
+			"pagespeed": 78,
+			"speedindex": 1714
+		},
+		{
+			"day": "2015-07-25",
+			"test": "150724_DD_d3283b18edcd2411cbc16600482220be",
+			"run": 1,
+			"browser": "Firefox",
+			"browser_version": "39.0.0.5659",
+			"byte": 291,
+			"render": 1471,
+			"dom": 3078,
+			"loaded": 3943,
+			"size": 855663,
+			"requests": 35,
+			"pagespeed": 78,
+			"speedindex": 1619
+		},
+		{
 			"day": "2015-07-24",
 			"test": "150723_75_1f743035be40c410c02a5b89d965479d",
 			"run": 1,
